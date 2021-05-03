@@ -1,814 +1,222 @@
-https://live.arydigital.tv/
-http://live.aryqtv.tv/
-https://live.arynews.tv/
-http://www.arymusik.tv/<?xml version="1.0" encoding="UTF-8"?>
-<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
-	<title>Playlist</title>
-	<trackList>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/7746?checkedby:iptvcat.com</location>
-			<title>24 NEWS HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>0</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>8X Music</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>8X Music</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/16264?checkedby:iptvcat.com</location>
-			<title>8XM</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>3</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/46?checkedby:iptvcat.com</location>
-			<title>92 NEWS HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com</location>
-			<title>92 News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com</location>
-			<title>92 News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com</location>
-			<title>92 News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>7</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com</location>
-			<title>92 News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8?checkedby:iptvcat.com</location>
-			<title>92 News UK</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/7742?checkedby:iptvcat.com</location>
-			<title>AAJ NEWS</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/16271?checkedby:iptvcat.com</location>
-			<title>ARY DIGITAL</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>11</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/7733?checkedby:iptvcat.com</location>
-			<title>ARY FAMILY</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>12</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/17124?checkedby:iptvcat.com</location>
-			<title>ARY MUSIC</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>13</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/17125?checkedby:iptvcat.com</location>
-			<title>ARY ZUAQ</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>14</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8?checkedby:iptvcat.com</location>
-			<title>AVT KHYBER</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>15</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com</location>
-			<title>AVT KHYBER</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>16</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/aajentweb_360p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Aaj Entertainment</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>17</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/aajentweb_360p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Aaj Entertainment</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>18</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/aajnewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Aaj News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>19</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/aajnewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Aaj News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>20</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/aplusweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Aplus</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>21</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/aplusweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Aplus</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>22</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com</location>
-			<title>B4U Kadak</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>23</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:iptvcat.com</location>
-			<title>B4U Music</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>24</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/bolentweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>BOL Entertainment</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>25</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/bolentweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>BOL Entertainment</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>26</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/bolweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>BOL News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>27</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/bolweb_360p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>BOL News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>28</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/bolweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>BOL News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>29</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/bolweb_360p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>BOL News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>30</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com</location>
-			<title>TAG TV,Tag TV (Opt-1)</title>
-			<creator>CA | TAG TV</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>31</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/17133?checkedby:iptvcat.com</location>
-			<title>CITY 42 NEWS</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>32</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Dawn News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>33</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Dawn News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>34</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/dunyanewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Dunya</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>35</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/dunyanewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Dunya</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>36</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?checkedby:iptvcat.com</location>
-			<title>Dunya News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>37</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8?checkedby:iptvcat.com</location>
-			<title>Dunya News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>38</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/7720?checkedby:iptvcat.com</location>
-			<title>EXPRESS NEWS</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>39</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com</location>
-			<title>Eawaz TV (CA)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>40</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/expressentweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Express Entertainment</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>41</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/expressentweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Express Entertainment</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>42</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://5a6ada4d8f439.streamlock.net/expressdigital/livestream/playlist.m3u8?checkedby:iptvcat.com</location>
-			<title>Express TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>43</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8?checkedby:iptvcat.com</location>
-			<title>Express TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>44</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com</location>
-			<title>Eye 95 America (US)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>45</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/filmworldweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Film World</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>46</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/filmworldweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Film World</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>47</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/filmaxweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Filmax</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>48</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/filmaxweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Filmax</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>49</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/51?checkedby:iptvcat.com</location>
-			<title>GEO ENTERTAINMENT TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>50</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/49?checkedby:iptvcat.com</location>
-			<title>GEO KAHANI</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>51</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/geoentweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Geo Entertainment</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>52</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/geoentweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Geo Entertainment</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>53</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stream-e30453a4b.nmbs.top/m3u/Pakistan/895fb98ab9.m3u8?checkedby:iptvcat.com</location>
-			<title>Geo Kahani</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>54</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/geonewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Geo News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>55</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/geonewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Geo News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>56</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/23804?checkedby:iptvcat.com</location>
-			<title>HUM TV EUROPE</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>57</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/6991?checkedby:iptvcat.com</location>
-			<title>HUM TV HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>58</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/7736?checkedby:iptvcat.com</location>
-			<title>HUM TV SITARAY</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>59</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/23803?checkedby:iptvcat.com</location>
-			<title>HUM TV WORLD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>60</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/jalwaweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Jalwa</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>61</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/jalwaweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Jalwa</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>62</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/52?checkedby:iptvcat.com</location>
-			<title>KAY 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>63</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8?checkedby:iptvcat.com</location>
-			<title>Kay2 TV,PK | Kay 2</title>
-			<creator>Kay 2</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>64</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8?checkedby:iptvcat.com</location>
-			<title>Kay 2</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>65</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8?checkedby:iptvcat.com</location>
-			<title>Kay2 TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>66</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8?checkedby:iptvcat.com</location>
-			<title>Khyber Middle East</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>67</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?checkedby:iptvcat.com</location>
-			<title>Khyber Middle East TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>68</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8?checkedby:iptvcat.com</location>
-			<title>Khyber News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>69</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com</location>
-			<title>Khyber News TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>70</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8?checkedby:iptvcat.com</location>
-			<title>Khyber News TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>71</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/ltnweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>LTN Family</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>72</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/ltnweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>LTN Family</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>73</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/lahorenewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Lahore News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>74</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8?checkedby:iptvcat.com</location>
-			<title>Lahore News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>75</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/lahorenewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Lahore News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>76</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8?checkedby:iptvcat.com</location>
-			<title>Lahore News (Opt-2)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>77</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/madnitvweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Madni TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>78</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/madnitvweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Madni TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>79</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/makkahweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Makkah Live</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>80</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/makkahweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Makkah Live</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>81</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8?checkedby:iptvcat.com</location>
-			<title>Minhaj TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>82</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8?checkedby:iptvcat.com</location>
-			<title>Minhaj TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>83</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/7747?checkedby:iptvcat.com</location>
-			<title>NEO NEWS HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>84</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8?checkedby:iptvcat.com</location>
-			<title>Nazrana TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>85</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/neonewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Neo News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>86</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/neonewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Neo News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>87</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/aajentweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>News One</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>88</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/aajentweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>News One</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>89</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/7696?checkedby:iptvcat.com</location>
-			<title>PTV GLOBAL</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>90</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/7694?checkedby:iptvcat.com</location>
-			<title>PTV HOME</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>91</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://stariptv.top:2086/7899/7899/7698?checkedby:iptvcat.com</location>
-			<title>PTV WORLD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>92</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/publicnewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Public News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>93</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/publicnewsweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Public News</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>94</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://playlive.goonj.pk/samaaweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Samaa TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>95</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://playlive.goonj.pk/samaaweb_480p/index.m3u8?checkedby:iptvcat.com</location>
-			<title>Samaa TV</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>96</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://cdn61.liveonlineservices.com/hls/subrang.m3u8?checkedby:iptvcat.com</location>
-			<title>Subrang TV (USA)</title>
-			<creator>Subrang TV</creator>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>97</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://cdn20.liveonlineservices.com/hls/subrang.m3u8?checkedby:iptvcat.com</location>
-			<title>Subrang TV (US) (Opt-2)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>98</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://cdn30.liveonlineservices.com/hls/tagtv.m3u8?checkedby:iptvcat.com</location>
-			<title>Tag TV (Opt-2)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>99</vlc:id>
-			</extension>
-		</track>
-	</trackList>
-	<extension application="http://www.videolan.org/vlc/playlist/0">
-		<vlc:item tid="0"/>
-		<vlc:item tid="1"/>
-		<vlc:item tid="2"/>
-		<vlc:item tid="3"/>
-		<vlc:item tid="4"/>
-		<vlc:item tid="5"/>
-		<vlc:item tid="6"/>
-		<vlc:item tid="7"/>
-		<vlc:item tid="8"/>
-		<vlc:item tid="9"/>
-		<vlc:item tid="10"/>
-		<vlc:item tid="11"/>
-		<vlc:item tid="12"/>
-		<vlc:item tid="13"/>
-		<vlc:item tid="14"/>
-		<vlc:item tid="15"/>
-		<vlc:item tid="16"/>
-		<vlc:item tid="17"/>
-		<vlc:item tid="18"/>
-		<vlc:item tid="19"/>
-		<vlc:item tid="20"/>
-		<vlc:item tid="21"/>
-		<vlc:item tid="22"/>
-		<vlc:item tid="23"/>
-		<vlc:item tid="24"/>
-		<vlc:item tid="25"/>
-		<vlc:item tid="26"/>
-		<vlc:item tid="27"/>
-		<vlc:item tid="28"/>
-		<vlc:item tid="29"/>
-		<vlc:item tid="30"/>
-		<vlc:item tid="31"/>
-		<vlc:item tid="32"/>
-		<vlc:item tid="33"/>
-		<vlc:item tid="34"/>
-		<vlc:item tid="35"/>
-		<vlc:item tid="36"/>
-		<vlc:item tid="37"/>
-		<vlc:item tid="38"/>
-		<vlc:item tid="39"/>
-		<vlc:item tid="40"/>
-		<vlc:item tid="41"/>
-		<vlc:item tid="42"/>
-		<vlc:item tid="43"/>
-		<vlc:item tid="44"/>
-		<vlc:item tid="45"/>
-		<vlc:item tid="46"/>
-		<vlc:item tid="47"/>
-		<vlc:item tid="48"/>
-		<vlc:item tid="49"/>
-		<vlc:item tid="50"/>
-		<vlc:item tid="51"/>
-		<vlc:item tid="52"/>
-		<vlc:item tid="53"/>
-		<vlc:item tid="54"/>
-		<vlc:item tid="55"/>
-		<vlc:item tid="56"/>
-		<vlc:item tid="57"/>
-		<vlc:item tid="58"/>
-		<vlc:item tid="59"/>
-		<vlc:item tid="60"/>
-		<vlc:item tid="61"/>
-		<vlc:item tid="62"/>
-		<vlc:item tid="63"/>
-		<vlc:item tid="64"/>
-		<vlc:item tid="65"/>
-		<vlc:item tid="66"/>
-		<vlc:item tid="67"/>
-		<vlc:item tid="68"/>
-		<vlc:item tid="69"/>
-		<vlc:item tid="70"/>
-		<vlc:item tid="71"/>
-		<vlc:item tid="72"/>
-		<vlc:item tid="73"/>
-		<vlc:item tid="74"/>
-		<vlc:item tid="75"/>
-		<vlc:item tid="76"/>
-		<vlc:item tid="77"/>
-		<vlc:item tid="78"/>
-		<vlc:item tid="79"/>
-		<vlc:item tid="80"/>
-		<vlc:item tid="81"/>
-		<vlc:item tid="82"/>
-		<vlc:item tid="83"/>
-		<vlc:item tid="84"/>
-		<vlc:item tid="85"/>
-		<vlc:item tid="86"/>
-		<vlc:item tid="87"/>
-		<vlc:item tid="88"/>
-		<vlc:item tid="89"/>
-		<vlc:item tid="90"/>
-		<vlc:item tid="91"/>
-		<vlc:item tid="92"/>
-		<vlc:item tid="93"/>
-		<vlc:item tid="94"/>
-		<vlc:item tid="95"/>
-		<vlc:item tid="96"/>
-		<vlc:item tid="97"/>
-		<vlc:item tid="98"/>
-		<vlc:item tid="99"/>
-	</extension>
-</playlist>
+#EXTINF:-1, Set Max
+
+rtmp://pakistani.mine.nu:1935/live/1.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,Rishtey
+
+rtmp://pakistani.mine.nu:1935/live/2.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,ARY QTV
+
+rtmp://pakistani.mine.nu:1935/live/3.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,COLORS
+
+rtmp://pakistani.mine.nu:1935/live/4.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,GEO ENT
+
+rtmp://pakistani.mine.nu:1935/live/5.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,GEO TEZ
+
+rtmp://pakistani.mine.nu:1935/live/6.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,STAR PLUS
+
+rtmp://pakistani.mine.nu:1935/live/7.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,STAR GOLD
+
+rtmp://pakistani.mine.nu:1935/live/8.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,GEO NEWS
+
+rtmp://pakistani.mine.nu:1935/live/9.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,ARY ENT
+
+rtmp://pakistani.mine.nu:1935/live/10.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,ZEE TV
+
+rtmp://pakistani.mine.nu:1935/live/11.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,ZEE CINEMA
+
+rtmp://pakistani.mine.nu:1935/live/12.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,LAMHE
+
+rtmp://pakistani.mine.nu:1935/live/13.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,HUM WORLD
+
+rtmp://pakistani.mine.nu:1935/live/14.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,HUM TV
+
+rtmp://pakistani.mine.nu:1935/live/15.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,HUM SITARY
+
+rtmp://pakistani.mine.nu:1935/live/16.ch?u=FAISAL53:p=sajjadmalik
+
+#EXTINF:-1,BOLLYWOOOD (MOVIES)
+
+rtmp://pakistani.mine.nu:1935/live/17.ch?u=FAISAL53:p=sajjadmalik
+
+
+
+
+GEO TEZ
+
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=?c2VydmVyX3RpbWU9Mi84LzIwMTQgMTI6MTQ6NTIgQU0maGFzaF92YW
+
+x1ZT1SUmxITzA0M1FtQjBwem9aU1JMMWlRPT0mdmFsaWRtaW51dGVzPTg= playpath=geotezz swfUrl=http://www.eboundservices.com/live/v6/player.swf?domain=geotez.tv.com.pk&channel=geotezz live=1 pageUrl=http://www.eboundservices.com/iframe/newads/iframe.php?stream=geotezz&width=undefined&height=undefined&clip=geotezz
+
+
+DUNYA NEWS
+
+rtmp://$OPT:rtmp-raw=rtmp://50.117.24.90/live playpath=mp4:livestream_1.f4v swfUrl=http://dunyanews.tv/jwplayer67/jwplayer.flash.swf live=1 pageUrl=http://dunyanews.tv/livehd/
+
+
+DAWN NEWS
+
+rtmp://$OPT:rtmp-raw=rtmp://cdn.ebound.tv/tv?wmsAuthSign=?c2VydmVyX3RpbWU9Mi84LzIwMTQgMTI6MTk6MzIgQU0maGFzaF92YWx
+
+1ZT1EOWZCYzZ4YVhxVVB3V2NNRFFmMVN3PT0mdmFsaWRtaW51dGVzPTg= playpath=dawn swfUrl=http://www.eboundservices.com/live/v6/player.swf?domain=dawnnews.tv.com.pk&channel=dawn live=1 pageUrl=http://www.eboundservices.com/iframe/newads/iframe.php?stream=dawn&width=undefined&height=undefined&clip=dawn
+
+#EXTINF:-1,ary_one_world
+
+rtmp://$OPT:rtmp-raw=rtmp://93.115.88.177:1935/live playpath=myStream swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/ary_one_world.aspx
+
+#EXTINF:-1,DAWN NEWS
+
+rtsp://dawnstream.hostingmadeeasy.com/dawn
+
+#EXTINF:-1,DEKHO TV
+
+http://54.243.231.64:1935/live/dekhotv.mp4/hasbahca.m3u8
+
+#EXTINF:-1,DUNYA NEWS
+
+rtmp://$OPT:rtmp-raw=rtmp://173.245.68.50/live playpath=cam swfUrl=http://dunyanews.tv/newsite/live_stream/player.swf live=1 pageUrl=http://hamariweb.com/tv/ --live
+
+#EXTINF:-1,iFILM
+
+rtmp://$OPT:rtmp-raw=rtmp://mtv.fms-01.visionip.tv/live/ playpath=mtv-ifilm-ifilm-live-16x9-SDq swfUrl=http://www.ifilmtv.com/player/_player.swf live=1 pageUrl=http://www.ifilmtv.com/english/Live/ --live
+
+#EXTINF:-1,islam_tv
+
+rtmp://$OPT:rtmp-raw=rtmp://wowza04.sharp-stream.com/islamtv playpath=islamtv swfUrl=http://player.sharp-stream.com/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/islam_tv.aspx
+
+#EXTINF:-1,KTN_news
+
+rtmp://$OPT:rtmp-raw=rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/KTN_news.aspx
+
+#EXTINF:-1,PEACE TV
+
+rtmp://$OPT:rtmp-raw=rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_asia-live-25f-4x3-sdh_1 swfUrl=http://hamariweb.com/tvold/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/peace_tv.aspx
+
+#EXTINF:-1,peace_tv
+
+rtmp://$OPT:rtmp-raw=rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_asia-live-25f-4x3-sdh_1 swfUrl=http://hamariweb.com/tvold/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/peace_tv.aspx
+
+#EXTINF:-1,PRESS TV
+
+rtmp://$OPT:rtmp-raw=rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf live=1 pageUrl=http://www.presstv.ir/live.html --live
+
+#EXTINF:-1,PTV NEWS
+
+rtmp://$OPT:rtmp-raw=rtmp://live.server4sale.com/live playpath=PTVnews swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=1 pageUrl=http://news.ptv.com.pk/livestreaming.asp
+
+#EXTINF:-1,PTV WORLD
+
+rtmp://$OPT:rtmp-raw=rtmp://live.server4sale.com/live playpath=8090 swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf live=1 pageUrl=http://world.ptv.com.pk/LiveStreaming.asp -C B:0 --live
+
+#EXTINF:-1,Sama News
+
+rtsp://38.96.148.99:1935/live/bb
+
+#EXTINF:-1,samatv
+
+rtmp://$OPT:rtmp-raw=rtmp://38.96.148.99:1935/samaalive playpath=samaalive swfUrl=http://hamariweb.com/mediaplayer-5.10-licensed/player.swf live=1 pageUrl=http://hamariweb.com/pakistan-tv-channels/sama_tv.aspx
+
+ATV 1
+
+http://origin01.az.myvideo.az/hls-live/livepkgr/atvturk/atvturk/atvturk.m3u8
+
+ATV 2
+
+http://85.132.44.99:1935/turktv/atv-turkiye.sdp/stv9.m3u8
+
+ATV 3
+
+http://yayin.canlitv.com:1935/live/atv/stv39.m3u8
+
+ATV 4
+
+rtmp://yayin.canlitv.com/live/atv
+
+ATV 5
+
+rtmp://$OPT:rtmp-raw=rtmp://159.253.145.140/atv/ playpath=atv3 swfUrl=http://i.tmgrup.com.tr/p/stv39/flowplayer-3.2.9.swf?i=1 live=1 pageUrl=http://www.atv.com.tr/webtv/canli-yayin
+
+ATV 6
+
+rtmp://$OPT:rtmp-raw=rtmp://live.atv.com.tr:1935/atv/atv3 swfUrl=http://i.tmgrup.com.tr/p/stv39/flowplayer-3.2.9.swf pageUrl=http://www.atv.com.tr/webtv/canli-yayin 
+
+#EXTINF:-1,HALILOU:ARY NEWS:
+
+rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/tv/ary_news pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450 token=%X886(nPK@#.
+
+
+#EXTINF:-1,HALILOU:ARY ZAUQ:
+
+rtmp://server1.arylive.com:1935/live/myStream
+
+
+#EXTINF:-1,HALILOU:ARY DIGITAL:
+
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live/arydigitali pageUrl=http://www.playfooty.tv/play/embed.php?u=halilou&vw=600&vh=450
+
+
+#EXTINF:-1,HALILOU:ARY QTV:
+
+rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/qtv.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450 token=%X886(nPK@#.
+
+
+#EXTINF:-1,HALILOU:GEO TV:
+
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live/geoenti pageUrl=http://www.playfooty.tv/play/embed.php?u=halilou&vw=600&vh=450
+
+
+#EXTINF:-1,HALILOU:GEO TEZ:
+
+rtmp://$OPT:rtmp-raw=rtmp://93.120.27.85/live/geotez pageUrl=http://www.dcast.tv/embed.php?u=halilou&vw=600&vh=450
+
+
+#EXTINF:-1,HALILOU:GEO NEWS:
+
+rtmp://$OPT:rtmp-raw=rtmp://93.120.27.85/live/geonewsi pageUrl=http://www.dcast.tv/embed.php?u=halilou&vw=600&vh=450
+
+
+#EXTINF:-1,HALILOU:GEO KAHANI:
+
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live/geokahanii pageUrl=http://www.playfooty.tv/play/embed.php?u=halilou&vw=600&vh=450
+
+
+#EXTINF:-1,HALILOU:SAMAA NEWS:
+
+rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base/samma.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=600&vh=450 token=%X886(nPK@#.
+
+
+#EXTINF:-1,HALILOU:DUNYA NEWS:
+
+rtmp://$OPT:rtmp-raw=rtmp://173.245.68.50/live/ playpath=cam swfUrl=http://dunyanews.tv/jwplayer67/jwplayer.flash.swf live=1 pageUrl=http://dunyanews.tv/halilou/new1_live_tv.php
+
+
+#EXTINF:-1,HALILOU:HUM TV:
+
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live/humi pageUrl=http://www.playfooty.tv/play/embed.php?u=halilou&vw=600&vh=450
